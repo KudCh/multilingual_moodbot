@@ -1,5 +1,7 @@
 # multilingual_moodbot
 
+## You need a working Rasa installation to run the bot
+
 This is a PoC multilingual chatbot made in Rasa inspired by [this post](https://forum.rasa.com/t/multilingual-chatbot/46102) on the Rasa forum. 
 
 The bot uses [Google Translate API](https://pypi.org/project/googletrans/) translate its replies to French. (check the **actions.py** file)
